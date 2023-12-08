@@ -23,7 +23,7 @@ Please ensure that you run these commands in a PowerShell window with administra
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Hiramgm/Fred-Speech-to-Text.git
+   git clone https://github.com/Rozi1/fred_desktop.git
    ```
 
 2. Navigate to the `Fred-Speech-to-Text` folder:
